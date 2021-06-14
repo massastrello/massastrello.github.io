@@ -1,18 +1,15 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Massaroli":
+  - firstname: ["Stefano", "S.", "S. M.", "Massaroli Stefano", "Massaroli* Stefano"]
+    url: https://github.com/massastrello
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Poli":
+  - firstname: ["Michael", "M.", "M. P.", "Michael Poli"]
+    url: https://poli.people.stanford.edu/~
+    
+"Poli*":
+  - firstname: ["Michael", "M.", "M. P.", "Michael Poli*"]
+    url: https://poli.people.stanford.edu/~
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Park":
+  - firstname: ["Jinkyoo", "J.", "J. P.", "Park Jinkyoo"]
+    url: http://silab.kaist.ac.kr/our-team/
