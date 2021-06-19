@@ -55,4 +55,3 @@ horizontal: false
   {% endif %}
 
 </div>
-

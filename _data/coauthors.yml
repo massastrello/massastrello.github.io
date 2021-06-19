@@ -13,3 +13,20 @@
 "Park":
   - firstname: ["Jinkyoo", "J.", "J. P.", "Park Jinkyoo"]
     url: http://silab.kaist.ac.kr/our-team/
+
+"Yamashita":
+  - firstname: ["Atsushi", "A.", "A. Y.", "Yamashita Atsushi"]
+    url: http://www.robot.t.u-tokyo.ac.jp/~yamashita/profile-e.html
+
+"Garg":
+  - firstname: ["Animesh", "A.", "A. G.", "Garg Animesh"]
+    url: https://animesh.garg.tech
+
+"Suzuki":
+  - firstname: ["Taiji", "T.", "T. S.", "Suzuki Taiji"]
+    url: http://ibis.t.u-tokyo.ac.jp/suzuki/
+
+"Sonoda":
+  - firstname: ["Sho", "S.", "S. S.", "Sonoda Sho"]
+    url: https://sites.google.com/view/shosonoda/home
+
