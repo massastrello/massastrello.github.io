@@ -11,6 +11,6 @@ Deep Learning, Dynamical Systems, Optimization and Control.
 
 # News
 
-- 2022-09-14 Two papers were accepted at NeurIPS 2022. 
+- [2022-09-14] Two papers were accepted at NeurIPS 2022. 
 
 
