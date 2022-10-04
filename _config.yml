@@ -7,7 +7,7 @@ header_pages:
   - index.md
   - about.md
   - research.md
-  - cv.pdf
+  - cv.md
 
 style: light
 
