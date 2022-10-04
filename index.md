@@ -7,4 +7,10 @@ permalink: /
 
 Postdoc @ Mila -- Quebec. 
 
-Deep Learning, Dynamical Systems, Optimization and Control
+Deep Learning, Dynamical Systems, Optimization and Control.
+
+# News
+
+- 2022-09-14 Two papers were accepted at NeurIPS 2022. 
+
+
