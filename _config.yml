@@ -5,11 +5,11 @@ url: "https://massastrello.github.io"
 
 header_pages:
   - index.md
-  - publications.md
   - about.md
+  - publications.md
   - contact.md
 
-style: dark
+style: light
 
 footer: '<a href="https://scholar.google.co.jp/citations?user=IwCfl4UAAAAJ&hl=en">scholar</a> <a href="https://github.com/massastrello/">github</a> <a href="https://twitter.com/massastrello">twitter</a>'
 
