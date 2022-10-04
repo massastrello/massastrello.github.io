@@ -1,2 +1,2 @@
-# jekyll-theme-console demo
-This is a demo site for the jekyll-theme-console theme.
+Stefano Massaroli personal website.
+Built on the `jekyll-theme-console` theme.
