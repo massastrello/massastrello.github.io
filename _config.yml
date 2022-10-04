@@ -11,7 +11,7 @@ header_pages:
 
 style: hacker
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: '<a href="https://twitter.com/massastrello">twitter</a> <a href="https://github.com/massastrello/">github</a> <a href="https://scholar.google.co.jp/citations?user=IwCfl4UAAAAJ&hl=en">scholar</a>'
 
 # Build settings
 markdown: kramdown
