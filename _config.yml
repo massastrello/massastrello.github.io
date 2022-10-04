@@ -9,7 +9,7 @@ header_pages:
   - about.md
   - contact.md
 
-style: hacker
+style: dark
 
 footer: '<a href="https://scholar.google.co.jp/citations?user=IwCfl4UAAAAJ&hl=en">scholar</a> <a href="https://github.com/massastrello/">github</a> <a href="https://twitter.com/massastrello">twitter</a>'
 
