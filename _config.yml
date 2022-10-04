@@ -6,7 +6,7 @@ url: "https://massastrello.github.io"
 header_pages:
   - index.md
   - about.md
-  - publications.md
+  - research.md
   - contact.md
 
 style: light
