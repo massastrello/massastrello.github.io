@@ -4,4 +4,4 @@ layout: page
 permalink: /cv
 ---
 
-<object data="cv.pdf" type='application/pdf'/>
+<a href="massastrello.github.io/cv.pdf" target="_blank">[cv]</a>
