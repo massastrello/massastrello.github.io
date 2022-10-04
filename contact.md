@@ -14,14 +14,14 @@ permalink: /contact
     email:
     <input type="email" name="email">
   </label>
+  
   <label>
     message:
     <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
-  <button type="submit">[ submit ]</button>
+  <button type="submit">Send</button>
 </form>
-
 
 <!-- <form>
   <input type="text" id="name" name="name" placeholder="name:" autocomplete="off">
