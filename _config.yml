@@ -11,7 +11,7 @@ header_pages:
 
 style: light
 
-footer: '<a href="https://scholar.google.co.jp/citations?user=IwCfl4UAAAAJ&hl=en">scholar</a> <a href="https://github.com/massastrello/">github</a> <a href="https://twitter.com/massastrello">twitter</a>'
+footer: '<a href="https://scholar.google.co.jp/citations?user=IwCfl4UAAAAJ&hl=en">google scholar</a> <a href="https://github.com/massastrello/">github</a> <a href="https://twitter.com/massastrello">twitter</a>'
 
 # Build settings
 markdown: kramdown
